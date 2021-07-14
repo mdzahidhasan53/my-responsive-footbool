@@ -76,3 +76,7 @@ main{
 .player-info h3{
     font-size: 28px;
 }
+#sponsors{
+    width: 100%;
+    text-align: center;
+}
