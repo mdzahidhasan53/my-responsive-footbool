@@ -80,3 +80,13 @@ main{
     width: 100%;
     text-align: center;
 }
+footer{
+    text-align: center;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 81px;
+}
+.footer-image img{
+    width: 483px;
+    height: 110px;
+}
