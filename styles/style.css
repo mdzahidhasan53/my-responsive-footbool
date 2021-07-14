@@ -80,6 +80,7 @@ main{
     width: 100%;
     text-align: center;
 }
+/* footer style */
 footer{
     text-align: center;
     width: 100%;
@@ -89,4 +90,13 @@ footer{
 .footer-image img{
     width: 483px;
     height: 110px;
+}
+@media screen and (max-width:600px) {
+    body{
+        background-color: orangered;
+    }
+    .banner{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
 }
